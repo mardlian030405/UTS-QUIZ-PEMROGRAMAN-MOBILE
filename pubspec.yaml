@@ -50,8 +50,12 @@ flutter_launcher_icons:
 flutter_native_splash:
   color: "#ffffff" # background putih
   image: assets/images/logo.png # ganti dengan path logomu
-  android: true
+  android: false
   ios: true
+  android_gravity: center
+  ios_content_mode: center
+  fullscreen: true
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
