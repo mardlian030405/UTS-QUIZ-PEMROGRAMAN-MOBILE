@@ -1,16 +1,9 @@
-# quiz
+# UTS PEMROGRAMAN MOBILE
 
-A new Flutter project.
+APLIKASI KUIS MINDMI Kuis Seputar D4 Manajemen Informatika
 
-## Getting Started
+## Kelompok:
+M. Mardlian Nurofiq				    (23091397105 / MI2023C)
+Dicky Dippos Sihite				    (23091397071 / MI2023C)
+Baharudin Agustian Ziyat			(23091397094 / MI2023C)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
